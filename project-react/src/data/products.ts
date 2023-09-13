@@ -12,5 +12,17 @@ export const products: IProduct[]= [
             rate:3.9,
             count:120
         }
+    },
+    {
+        id:2,
+        title:"Mens Casual Premium Slim fit T-Shirts",
+        price:22.5,
+        description:"Slim-fittng style",
+        category:"men's clothing",
+        image:"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        rating:  {
+            rate:4.1,
+            count:259
+        }
     }
 ]
