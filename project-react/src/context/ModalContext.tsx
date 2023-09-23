@@ -18,7 +18,7 @@ export const ModalState = ({children}: {children: ReactNode}) => {
 
     const open = () => setModal(true)
 
-    const close = () => setModal(true)
+    const close = () => setModal(false)
 
 
     return (
